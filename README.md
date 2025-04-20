@@ -10,7 +10,7 @@ A simple chatbot built using TF-IDF and cosine similarity, trained directly on y
 
 ## 📂 Structure
 - `chatbot.py`: Main script to run the chatbot
-- `data/Clara_Chat.txt`: Your WhatsApp export (not included in repo)
+- `data/chat.txt`: Your WhatsApp export (not included in repo) or any other chat history in text format
 - `requirements.txt`: Python dependencies
 
 ## 🚀 Setup
@@ -37,7 +37,7 @@ python chatbot.py
 The bot expects chat lines in the WhatsApp format:
 ```
 [12/03/23, 10:15:00 AM] John: Hello
-[12/03/23, 10:15:05 AM] Clara: Hi!
+[12/03/23, 10:15:05 AM] Priya: Hi!
 ```
 
 ## 📝 License
